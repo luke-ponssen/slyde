@@ -1,0 +1,17 @@
+.login-content {
+    position: relative;
+}
+
+.login-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    margin: 45vh auto;
+}
+
+.icon {
+    display: flex;
+    vertical-align: auto;
+    padding-left: 5px;
+}
