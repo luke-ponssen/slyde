@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/luke-ponssen/slyde/static/css/main.9a08a072.css",
+    "main.js": "/luke-ponssen/slyde/static/js/main.c296e603.js",
+    "index.html": "/luke-ponssen/slyde/index.html",
+    "main.9a08a072.css.map": "/luke-ponssen/slyde/static/css/main.9a08a072.css.map",
+    "main.c296e603.js.map": "/luke-ponssen/slyde/static/js/main.c296e603.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a08a072.css",
+    "static/js/main.c296e603.js"
+  ]
+}
